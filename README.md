@@ -28,3 +28,5 @@
 
 # assembly </br>
 -setb: set if below, use after cmp
+Ex: setb al
+set al to 1
