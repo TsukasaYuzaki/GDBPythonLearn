@@ -22,3 +22,9 @@
   
 -show all threads:
  +(gdb) info threads
+
+
+
+
+#assembly
+-setb: set if below, use after cmp
