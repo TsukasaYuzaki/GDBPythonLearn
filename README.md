@@ -1,5 +1,7 @@
 # GDBPythonLearn
 
+set output-radix 16 (and set output-radix 10 to switch it back)
+
 ## Basic GDB commands:
 -Get a core file: (gdb) gcore
 
